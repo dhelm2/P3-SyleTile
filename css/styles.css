@@ -1,0 +1,77 @@
+/* Set Your Own Margin & Padding */
+ 
+body {
+	font-family: 'Raleway', sans-serif;
+	background: url("../img/bg.png"); 
+}
+
+ h1, h2, h3 {
+	margin: 0;
+	color: #2d2c71;
+	font-family: 'Crete Round', serif;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+/* Layout for Style Tile*/
+
+
+section {
+	margin: 20px 0;
+}
+
+.color-1 {
+	background: #73cbcc;
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.color-2{
+	background: #2c2d70;
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.color-3{
+	background: #afafaf;
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.pattern-1 {
+	background: url("../img/wall4.png"); 
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.pattern-2 {
+	background: url("../img/arches.png");
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.pattern-3 {
+	background: url("../img/scratch.png");
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
